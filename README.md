@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Roger Vison</h1>
-<h3 align="center">A computer science student in UDL, Lleida and VIA University, Denmark.</h3>
->
+<h3 align="center">Computer Science student at UDL in Lleida and at VIA University in Denmark.</h3>
+
 
 [![](https://visitcount.itsvg.in/api?id=visxn&icon=0&color=8)](https://visitcount.itsvg.in)
 
