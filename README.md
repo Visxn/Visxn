@@ -1,4 +1,8 @@
+<h1 align="center">Hi there 👋, I'm Roger Vison</h1>
+<h3 align="center">A computer science student in Universitat de Lleida</h3>
 
+
+- 📫 How to reach me **rogervison@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visxn_) 
 
