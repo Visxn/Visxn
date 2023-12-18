@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Roger Vison</h1>
-<h3 align="center">A computer science student in Universitat de Lleida</h3>
+<h3 align="center">A computer science student in UDL, Lleida and VIA University, Denmark.</h3>
+>
 
 [![](https://visitcount.itsvg.in/api?id=visxn&icon=0&color=8)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **rogervison@gmail.com**
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visxn_) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/visxn_) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<rogervison@gmail.com>?subject=Came%20from%20Github_)
 
 # 💻 Tech Stack:
