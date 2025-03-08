@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=visxn&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-vison-a3a2102a2/)
+.[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-vison-a3a2102a2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/visxn_) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<rogervison@gmail.com>?subject=Came%20from%20Github_)
 
